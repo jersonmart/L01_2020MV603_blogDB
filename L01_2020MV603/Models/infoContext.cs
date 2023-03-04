@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Dynamic;
+//Se hace de nuevo porque me habia elminado esta clase.
 
 namespace L01_2020MV603.Models
 {
